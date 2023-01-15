@@ -1,0 +1,159 @@
+div.pishnehad{
+    width: 100%;
+    height: 400px;
+}
+div.pishnehad>h2{
+    font-family: fa;
+}
+div.pishnehad>div.sugestio{
+    width: 1500px;
+    height: 310px;
+    margin: 20px auto;
+    border: 1px dotted lightgray;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+div.pishnehad>div.sugestio>div.poopoo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+    border-left: 1px dotted lightgray;
+    border-bottom: 0.5px dotted lightgray;
+}
+div.pishnehad>div.sugestio>div.pishnahad2{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+    border-bottom: 0.5px dotted lightgray;
+}
+div.pishnehad>div.sugestio>div.poopoo>figure>div.pishnahad3{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.sugestio>div.poopoo>figure>div.pishnahad3>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.sugestio>div.poopoo>figure>div.pishnahad3>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.sugestio>div.poopoo>figure>div.pishnahad3>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+div.pishnehad>div.sugestio>div.pishnahad2>figure>div.pishnahad3{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.sugestio>div.pishnahad2>figure>div.pishnahad3>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.sugestio>div.pishnahad2>figure>div.pishnahad3>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.sugestio>div.pishnahad2>figure>div.pishnahad3>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+
+
+/* --- part 2 --- */
+
+
+div.pishnehad>div.sugestio>div.booboo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+    border-left: 1px dotted lightgray;
+}
+div.pishnehad>div.sugestio>div.bobo{
+    width: 210px;
+    height: 150px;
+    border-top-right-radius: 5px;
+    display: inline-block;
+}
+div.pishnehad>div.sugestio>div.booboo>figure>div.baba{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.sugestio>div.booboo>figure>div.baba>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.sugestio>div.booboo>figure>div.baba>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.sugestio>div.booboo>figure>div.baba>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+div.pishnehad>div.sugestio>div.bobo>figure>div.baba{
+    width: 100px;
+    height: 100px;
+    background-color: #F1F2F4;
+    border-radius: 50px;
+    display: inline-block;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+div.pishnehad>div.sugestio>div.bobo>figure>div.baba>figure{
+    margin-top: 20px;
+}
+
+div.pishnehad>div.sugestio>div.bobo>figure>div.baba>figure>img{
+    width: 60%;
+
+}
+div.pishnehad>div.sugestio>div.bobo>figure>div.baba>figure>figcaption{
+    font-family: fa;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+div.pishnehad>div.sugestio:hover{
+    cursor: pointer;
+
+}
