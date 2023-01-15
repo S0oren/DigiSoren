@@ -198,6 +198,7 @@ div.mahboobs>div.mahbobtarin>div.mahbobtarinha>h2>img{
     position: absolute;
     top: 10px;
     filter: invert(89%) sepia(80%) saturate(2212%) hue-rotate(356deg) brightness(105%) contrast(104%);
+    -webkit-filter: invert(89%) sepia(80%) saturate(2212%) hue-rotate(356deg) brightness(105%) contrast(104%);
 }
 div.mahboobs>div.mahbobtarin>div.mahbeb{
     width: 100%;
@@ -226,7 +227,6 @@ div.mahboobs>div.mahbobtarin>div.mahbeb>div.mahbub>figure>img{
 div.mahboobs>div.mahmahbobtarinbib>div.mahbeb>div.mahbub>figure>img:hover{
     cursor: pointer;
 }
-/* -----------------------------------------------4 ta 4 ta --------------------------------------------- */
 div.barasasebazdid{
     width: 100%;
     height: 480px;
